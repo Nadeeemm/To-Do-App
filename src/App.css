@@ -30,6 +30,11 @@
     margin: 30px 0;
 }
 
+.header p {
+    color: grey;
+    opacity: 0.4;
+}
+
 .task-input {
     outline: none;
     width: 260px;
